@@ -1,0 +1,2 @@
+exec: main.cpp Command_Line_Arguments_Reader.cpp Compression_File_Manager.cpp Huffman_Tree_Builder.cpp Encoder.cpp Compression_File_Writer.cpp Decompression_File_Manager.cpp Decoder.cpp Character.cpp Decompression_File_Writer.cpp Compression_Evaluator.cpp
+	g++ main.cpp Command_Line_Arguments_Reader.cpp Compression_File_Manager.cpp Huffman_Tree_Builder.cpp Encoder.cpp Compression_File_Writer.cpp Decompression_File_Manager.cpp Decoder.cpp Character.cpp Decompression_File_Writer.cpp Compression_Evaluator.cpp -o exec
